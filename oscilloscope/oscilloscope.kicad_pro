@@ -452,7 +452,9 @@
       "PLib_general",
       "PLib_conn"
     ],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "Plib_General"
+    ]
   },
   "meta": {
     "filename": "oscilloscope.kicad_pro",

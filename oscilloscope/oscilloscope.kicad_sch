@@ -7,7 +7,7 @@
 	(lib_symbols)
 	(wire
 		(pts
-			(xy 78.74 91.44) (xy 101.6 91.44)
+			(xy 78.74 95.25) (xy 101.6 95.25)
 		)
 		(stroke
 			(width 0)
@@ -17,7 +17,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 87.63) (xy 101.6 87.63)
+			(xy 78.74 91.44) (xy 101.6 91.44)
 		)
 		(stroke
 			(width 0)
@@ -27,7 +27,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 148.59) (xy 101.6 148.59)
+			(xy 78.74 144.78) (xy 101.6 144.78)
 		)
 		(stroke
 			(width 0)
@@ -37,7 +37,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 76.2) (xy 101.6 76.2)
+			(xy 78.74 80.01) (xy 101.6 80.01)
 		)
 		(stroke
 			(width 0)
@@ -47,7 +47,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 114.3) (xy 101.6 114.3)
+			(xy 78.74 118.11) (xy 101.6 118.11)
 		)
 		(stroke
 			(width 0)
@@ -67,7 +67,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 95.25) (xy 101.6 95.25)
+			(xy 78.74 99.06) (xy 101.6 99.06)
 		)
 		(stroke
 			(width 0)
@@ -97,7 +97,17 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 106.68) (xy 101.6 106.68)
+			(xy 78.74 153.67) (xy 101.6 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29e45732-0425-4be0-9607-1f05b68695eb")
+	)
+	(wire
+		(pts
+			(xy 78.74 110.49) (xy 101.6 110.49)
 		)
 		(stroke
 			(width 0)
@@ -147,7 +157,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 80.01) (xy 101.6 80.01)
+			(xy 78.74 83.82) (xy 101.6 83.82)
 		)
 		(stroke
 			(width 0)
@@ -167,13 +177,33 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 110.49) (xy 101.6 110.49)
+			(xy 78.74 114.3) (xy 101.6 114.3)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "6a531300-b498-4b7c-b3d6-1ca9d8fa279e")
+	)
+	(wire
+		(pts
+			(xy 78.74 151.13) (xy 101.6 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72d54f89-7571-41a0-8d8f-54a9e3081c01")
+	)
+	(wire
+		(pts
+			(xy 78.74 148.59) (xy 101.6 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ecc8562-7cbe-49b9-9a68-fb679440819c")
 	)
 	(wire
 		(pts
@@ -227,16 +257,6 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 143.51) (xy 101.6 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "94ec601b-273d-4e7e-9935-ef06a02a4b10")
-	)
-	(wire
-		(pts
 			(xy 78.74 135.89) (xy 101.6 135.89)
 		)
 		(stroke
@@ -247,13 +267,23 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 99.06) (xy 101.6 99.06)
+			(xy 78.74 102.87) (xy 101.6 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "9ec65a75-0f33-4d0c-8657-36e2ebfcdb32")
+	)
+	(wire
+		(pts
+			(xy 78.74 64.77) (xy 101.6 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9fa4ad8f-5d16-4de9-90f5-ddf11eb6d7df")
 	)
 	(wire
 		(pts
@@ -267,7 +297,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 102.87) (xy 101.6 102.87)
+			(xy 78.74 106.68) (xy 101.6 106.68)
 		)
 		(stroke
 			(width 0)
@@ -287,7 +317,7 @@
 	)
 	(bus
 		(pts
-			(xy 78.74 83.82) (xy 101.6 83.82)
+			(xy 78.74 87.63) (xy 101.6 87.63)
 		)
 		(stroke
 			(width 0)
@@ -464,8 +494,8 @@
 		)
 	)
 	(sheet
-		(at 38.1 128.27)
-		(size 40.64 30.48)
+		(at 38.1 130.81)
+		(size 40.64 27.94)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -476,7 +506,7 @@
 		)
 		(uuid "32b55b78-53b8-4dbb-a96e-05f08c864f07")
 		(property "Sheetname" "power"
-			(at 38.1 127.5584 0)
+			(at 38.1 130.0984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -523,18 +553,8 @@
 			)
 			(uuid "a16eb0df-b53a-4b28-b612-1bbcb994b00e")
 		)
-		(pin "V_BAT" input
-			(at 78.74 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "cd8209df-49ea-4647-abaf-fea6f3929169")
-		)
 		(pin "CHG_STS" input
-			(at 78.74 148.59 0)
+			(at 78.74 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -542,6 +562,36 @@
 				(justify right)
 			)
 			(uuid "1f535c82-18a5-4867-bf16-3f214221b067")
+		)
+		(pin "CHG_EN" input
+			(at 78.74 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "871325d9-8d51-43ae-a5a8-25d83c97d63c")
+		)
+		(pin "V_BAT_TOT" output
+			(at 78.74 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "94b278f3-6b35-46b9-8699-ca220dd7c3b4")
+		)
+		(pin "V_BAT_MID" output
+			(at 78.74 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "c02ecd9a-a74f-4e51-a646-89090095a7be")
 		)
 		(instances
 			(project "oscilloscope"
@@ -692,7 +742,7 @@
 			(uuid "bf57aa34-cb42-4294-ba11-d41e16b63dca")
 		)
 		(pin "DISP_ON_OFF" input
-			(at 101.6 87.63 180)
+			(at 101.6 91.44 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -702,7 +752,7 @@
 			(uuid "ba6b7262-646d-4a13-9094-bc1bd764aa21")
 		)
 		(pin "VSYNC" input
-			(at 101.6 91.44 180)
+			(at 101.6 95.25 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -712,7 +762,7 @@
 			(uuid "87a4ed95-6ca0-4c7f-b048-b22c403b81c1")
 		)
 		(pin "HSYNC" input
-			(at 101.6 95.25 180)
+			(at 101.6 99.06 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -722,7 +772,7 @@
 			(uuid "160c31b6-c269-4a39-8053-3c90c79cb048")
 		)
 		(pin "LCD_CLK" input
-			(at 101.6 80.01 180)
+			(at 101.6 83.82 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -732,7 +782,7 @@
 			(uuid "70dad039-48dc-4f23-b7ce-0ad07dd697f1")
 		)
 		(pin "LED_PWM" input
-			(at 101.6 76.2 180)
+			(at 101.6 80.01 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -742,7 +792,7 @@
 			(uuid "031259a3-2868-49b0-84b8-d0db64911617")
 		)
 		(pin "TOUCH_SDA" input
-			(at 101.6 114.3 180)
+			(at 101.6 118.11 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -752,7 +802,7 @@
 			(uuid "dfb8c554-747b-430f-bd9e-cf53441f33ba")
 		)
 		(pin "TOUCH_INT" input
-			(at 101.6 102.87 180)
+			(at 101.6 106.68 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -762,7 +812,7 @@
 			(uuid "1bf91c74-ed55-4234-86d9-420d0e92a357")
 		)
 		(pin "TOUCH_WAKE" input
-			(at 101.6 106.68 180)
+			(at 101.6 110.49 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -772,7 +822,7 @@
 			(uuid "6128c60c-934f-45c4-b3d5-c9581241840b")
 		)
 		(pin "TOUCH_SCL" input
-			(at 101.6 110.49 180)
+			(at 101.6 114.3 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -782,7 +832,7 @@
 			(uuid "45d14f24-ca05-40da-84fb-13201119e43a")
 		)
 		(pin "LCD_DE" input
-			(at 101.6 99.06 180)
+			(at 101.6 102.87 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -892,7 +942,7 @@
 			(uuid "7f4d932b-6b50-40bb-8b5c-fa42ebd4edb9")
 		)
 		(pin "{R[3..7] G[2..7] B[3..7]}" input
-			(at 101.6 83.82 180)
+			(at 101.6 87.63 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -902,7 +952,7 @@
 			(uuid "f56478ed-36ab-443e-a229-0b52f6e3311e")
 		)
 		(pin "CHG_STS" input
-			(at 101.6 148.59 180)
+			(at 101.6 144.78 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -920,16 +970,6 @@
 				(justify left)
 			)
 			(uuid "ae011b6f-8f59-430a-80bc-6590e55cf7e8")
-		)
-		(pin "V_BAT" input
-			(at 101.6 143.51 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "865e0271-39ce-4241-bc70-08394bf6bf00")
 		)
 		(pin "USB_DP" input
 			(at 101.6 135.89 180)
@@ -950,6 +990,46 @@
 				(justify left)
 			)
 			(uuid "edb50871-1b34-453c-a50d-6910a4e77c4f")
+		)
+		(pin "DAC_OUT" input
+			(at 101.6 64.77 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "a6f8174c-5c3b-4942-866b-2c5e9e1ab2da")
+		)
+		(pin "V_BAT_MID" input
+			(at 101.6 153.67 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "82357037-3fe1-4e48-902b-11d171029443")
+		)
+		(pin "V_BAT_TOT" input
+			(at 101.6 151.13 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "4be75861-3edc-401e-aaf4-95d5983e48ba")
+		)
+		(pin "CHG_EN" output
+			(at 101.6 148.59 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "09eacb1f-b1a9-4687-94b2-952c62de5736")
 		)
 		(instances
 			(project "oscilloscope"
@@ -1088,7 +1168,7 @@
 		)
 	)
 	(sheet
-		(at 38.1 71.12)
+		(at 38.1 77.47)
 		(size 40.64 48.26)
 		(fields_autoplaced yes)
 		(stroke
@@ -1100,7 +1180,7 @@
 		)
 		(uuid "c0090ad7-97e0-49cc-b628-0833cf3625bf")
 		(property "Sheetname" "Screen"
-			(at 38.1 70.4084 0)
+			(at 38.1 76.7584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1109,7 +1189,7 @@
 			)
 		)
 		(property "Sheetfile" "Screen.kicad_sch"
-			(at 38.1 119.9646 0)
+			(at 38.1 126.3146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1118,7 +1198,7 @@
 			)
 		)
 		(pin "LED_PWM" input
-			(at 78.74 76.2 0)
+			(at 78.74 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1128,7 +1208,7 @@
 			(uuid "7d6bba2c-94e7-4533-994e-90b271d43cd0")
 		)
 		(pin "DISP_ON_OFF" input
-			(at 78.74 87.63 0)
+			(at 78.74 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1138,7 +1218,7 @@
 			(uuid "46b72b52-6cbc-46d1-9fb5-5388efce8130")
 		)
 		(pin "VSYNC" input
-			(at 78.74 91.44 0)
+			(at 78.74 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1148,7 +1228,7 @@
 			(uuid "632280a7-fd79-49d4-a618-f9cbcd3873a0")
 		)
 		(pin "HSYNC" input
-			(at 78.74 95.25 0)
+			(at 78.74 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1158,7 +1238,7 @@
 			(uuid "404a1889-7eb6-4fda-81aa-deb77217d9dd")
 		)
 		(pin "TOUCH_INT" input
-			(at 78.74 102.87 0)
+			(at 78.74 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1168,7 +1248,7 @@
 			(uuid "2fe1d605-6c3b-40bb-a5cb-66dbb31fe899")
 		)
 		(pin "TOUCH_WAKE" input
-			(at 78.74 106.68 0)
+			(at 78.74 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1178,7 +1258,7 @@
 			(uuid "9243beb0-180c-4733-83fc-4b411b03f4b9")
 		)
 		(pin "TOUCH_SCL" input
-			(at 78.74 110.49 0)
+			(at 78.74 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1188,7 +1268,7 @@
 			(uuid "100fbf0b-3b29-4176-9aed-4140411580d4")
 		)
 		(pin "TOUCH_SDA" input
-			(at 78.74 114.3 0)
+			(at 78.74 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1198,7 +1278,7 @@
 			(uuid "d570dd1c-72e7-4e57-8589-5dc84ec909a6")
 		)
 		(pin "LCD_CLK" input
-			(at 78.74 80.01 0)
+			(at 78.74 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1208,7 +1288,7 @@
 			(uuid "ccbd8e25-a85d-4be1-a6e9-51e494309e14")
 		)
 		(pin "LCD_DE" input
-			(at 78.74 99.06 0)
+			(at 78.74 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1218,7 +1298,7 @@
 			(uuid "4933cc20-4a3a-4b84-aa51-c79b7938249c")
 		)
 		(pin "{R[3..7] G[2..7] B[3..7]}" input
-			(at 78.74 83.82 0)
+			(at 78.74 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1237,7 +1317,7 @@
 	)
 	(sheet
 		(at 38.1 30.48)
-		(size 40.64 35.56)
+		(size 40.64 41.91)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -1257,7 +1337,7 @@
 			)
 		)
 		(property "Sheetfile" "input.kicad_sch"
-			(at 38.1 66.6246 0)
+			(at 38.1 72.9746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1334,6 +1414,16 @@
 				(justify right)
 			)
 			(uuid "fdf8ea38-aa23-45b0-862b-8a7367448a2c")
+		)
+		(pin "DAC_OUT" input
+			(at 78.74 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7351b708-a60d-4b09-9e4f-4a5a630c4c7c")
 		)
 		(instances
 			(project "oscilloscope"

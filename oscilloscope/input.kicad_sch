@@ -125,488 +125,6 @@
 				)
 			)
 		)
-		(symbol "2CH_SOT23_OP_3"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "2ch OP amp general purpose symbol"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "2CH_SOT23_OP_3_1_1"
-				(polyline
-					(pts
-						(xy 0 0) (xy 10.16 -5.08) (xy 0 -10.16) (xy 0 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin output line
-					(at 12.7 -5.08 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -2.54 -7.62 0)
-					(length 2.54)
-					(name "-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -2.54 -2.54 0)
-					(length 2.54)
-					(name "+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "2CH_SOT23_OP_3_2_1"
-				(polyline
-					(pts
-						(xy 0 0) (xy 10.16 -5.08) (xy 0 -10.16) (xy 0 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin input line
-					(at -2.54 -2.54 0)
-					(length 2.54)
-					(name "+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -2.54 -7.62 0)
-					(length 2.54)
-					(name "-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 12.7 -5.08 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "2CH_SOT23_OP_3_3_1"
-				(rectangle
-					(start 0 0)
-					(end 10.16 -12.7)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin input line
-					(at -2.54 -10.16 0)
-					(length 2.54)
-					(name "VSS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -2.54 -2.54 0)
-					(length 2.54)
-					(name "VDD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "2CH_SOT23_OP_4"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "2ch OP amp general purpose symbol"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "2CH_SOT23_OP_4_1_1"
-				(polyline
-					(pts
-						(xy 0 0) (xy 10.16 -5.08) (xy 0 -10.16) (xy 0 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin output line
-					(at 12.7 -5.08 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -2.54 -7.62 0)
-					(length 2.54)
-					(name "-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -2.54 -2.54 0)
-					(length 2.54)
-					(name "+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "2CH_SOT23_OP_4_2_1"
-				(polyline
-					(pts
-						(xy 0 0) (xy 10.16 -5.08) (xy 0 -10.16) (xy 0 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin input line
-					(at -2.54 -2.54 0)
-					(length 2.54)
-					(name "+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -2.54 -7.62 0)
-					(length 2.54)
-					(name "-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 12.7 -5.08 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "2CH_SOT23_OP_4_3_1"
-				(rectangle
-					(start 0 0)
-					(end 10.16 -12.7)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin input line
-					(at -2.54 -10.16 0)
-					(length 2.54)
-					(name "VSS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -2.54 -2.54 0)
-					(length 2.54)
-					(name "VDD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "AGQ210_1"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -994,6 +512,166 @@
 						)
 					)
 					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Connector:Conn_01x02_Pin"
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x02_Pin"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x02, script generated"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x02_Pin_1_1"
+				(polyline
+					(pts
+						(xy 1.27 -2.54) (xy 0.8636 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 0.8636 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 0.8636 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1813,6 +1491,247 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Plib_General:2CH_SOP_STD_PIN"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "2ch OP amp general purpose symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "2CH_SOP_STD_PIN_1_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 10.16 -5.08) (xy 0 -10.16) (xy 0 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin output line
+					(at 12.7 -5.08 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -2.54 -7.62 0)
+					(length 2.54)
+					(name "-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -2.54 -2.54 0)
+					(length 2.54)
+					(name "+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "2CH_SOP_STD_PIN_2_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 10.16 -5.08) (xy 0 -10.16) (xy 0 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at -2.54 -2.54 0)
+					(length 2.54)
+					(name "+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -2.54 -7.62 0)
+					(length 2.54)
+					(name "-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 12.7 -5.08 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "2CH_SOP_STD_PIN_3_1"
+				(rectangle
+					(start 0 0)
+					(end 10.16 -12.7)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at -2.54 -10.16 0)
+					(length 2.54)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -2.54 -2.54 0)
+					(length 2.54)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3712,7 +3631,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 48.26) (xy 111.76 48.26)
+			(xy 114.3 48.26) (xy 113.03 48.26)
 		)
 		(stroke
 			(width 0)
@@ -3769,6 +3688,16 @@
 			(type default)
 		)
 		(uuid "06466ca8-2f3b-4cb3-aabf-5c1a7b340cb6")
+	)
+	(wire
+		(pts
+			(xy 251.46 102.87) (xy 251.46 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07b48609-9e46-478d-b7ac-0720b5e4bee8")
 	)
 	(wire
 		(pts
@@ -4232,7 +4161,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 48.26) (xy 111.76 54.61)
+			(xy 113.03 48.26) (xy 113.03 53.34)
 		)
 		(stroke
 			(width 0)
@@ -4432,7 +4361,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 50.8) (xy 160.02 57.15)
+			(xy 158.75 50.8) (xy 158.75 55.88)
 		)
 		(stroke
 			(width 0)
@@ -4982,13 +4911,23 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 54.61) (xy 130.81 45.72)
+			(xy 130.81 53.34) (xy 130.81 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "bec852d3-1a51-4cf2-8006-38265f123a3c")
+	)
+	(wire
+		(pts
+			(xy 243.84 100.33) (xy 251.46 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0ad9de1-2ab8-411f-877b-068ad8454c13")
 	)
 	(wire
 		(pts
@@ -5002,7 +4941,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 57.15) (xy 180.34 57.15)
+			(xy 158.75 55.88) (xy 180.34 55.88)
 		)
 		(stroke
 			(width 0)
@@ -5052,7 +4991,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 57.15) (xy 180.34 48.26)
+			(xy 180.34 55.88) (xy 180.34 48.26)
 		)
 		(stroke
 			(width 0)
@@ -5112,6 +5051,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 50.8) (xy 160.02 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce165328-0a4e-4f2f-abfd-0266b964cd10")
+	)
+	(wire
+		(pts
 			(xy 69.85 44.45) (xy 69.85 45.72)
 		)
 		(stroke
@@ -5132,7 +5081,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 54.61) (xy 130.81 54.61)
+			(xy 113.03 53.34) (xy 130.81 53.34)
 		)
 		(stroke
 			(width 0)
@@ -5592,6 +5541,18 @@
 		)
 		(uuid "6ed18002-8390-492b-a3f0-27b20048e42e")
 	)
+	(hierarchical_label "DAC_OUT"
+		(shape input)
+		(at 243.84 100.33 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8e27ab79-c844-439b-9cf0-ffd52f4639b9")
+	)
 	(hierarchical_label "CH1_B_DVR_1"
 		(shape input)
 		(at 195.58 91.44 0)
@@ -5603,6 +5564,77 @@
 			(justify left)
 		)
 		(uuid "f6a98e1d-512a-490c-90f6-0de13f0b5cc5")
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 256.54 100.33 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "065a4027-2166-4263-8768-3b6efa18d7ec")
+		(property "Reference" "J5"
+			(at 257.81 102.8701 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x02_Pin"
+			(at 257.81 100.3301 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 256.54 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 256.54 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 256.54 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d373cc6e-b6c7-4425-8109-afd8c66c2642")
+		)
+		(pin "1"
+			(uuid "d29aa164-111b-49d5-9a38-fb316ad96552")
+		)
+		(instances
+			(project ""
+				(path "/278f54ee-1296-4427-8b7b-827ba2606bbe/db52a101-068e-4e55-8fae-e0922467e0ad"
+					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -5823,8 +5855,7 @@
 		)
 	)
 	(symbol
-		(lib_name "2CH_SOT23_OP_3")
-		(lib_id "Plib_General:2CH_SOT23_OP")
+		(lib_id "Plib_General:2CH_SOP_STD_PIN")
 		(at 262.89 60.96 0)
 		(unit 3)
 		(exclude_from_sim no)
@@ -5834,7 +5865,7 @@
 		(fields_autoplaced yes)
 		(uuid "1400a56a-3c06-4ec7-baf8-d9a209fdec4a")
 		(property "Reference" "U15"
-			(at 274.32 66.6749 0)
+			(at 274.32 66.0399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5843,7 +5874,7 @@
 			)
 		)
 		(property "Value" "AD8646"
-			(at 274.32 68.58 0)
+			(at 274.32 68.5799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5997,7 +6028,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "164da6f8-d4a8-46ae-bf1b-a8993d38c89f")
 		(property "Reference" "#PWR075"
 			(at 45.72 198.12 0)
@@ -6009,7 +6039,7 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 45.72 196.85 0)
+			(at 45.72 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6408,8 +6438,7 @@
 		)
 	)
 	(symbol
-		(lib_name "2CH_SOT23_OP_3")
-		(lib_id "Plib_General:2CH_SOT23_OP")
+		(lib_id "Plib_General:2CH_SOP_STD_PIN")
 		(at 162.56 110.49 0)
 		(unit 2)
 		(exclude_from_sim no)
@@ -6419,7 +6448,7 @@
 		(fields_autoplaced yes)
 		(uuid "3e7db8ad-4c6b-4d03-bbcd-fb17bb72ced2")
 		(property "Reference" "U15"
-			(at 167.64 106.68 0)
+			(at 167.64 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6427,7 +6456,7 @@
 			)
 		)
 		(property "Value" "AD8646"
-			(at 167.64 109.22 0)
+			(at 167.64 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7046,8 +7075,7 @@
 		)
 	)
 	(symbol
-		(lib_name "2CH_SOT23_OP_3")
-		(lib_id "Plib_General:2CH_SOT23_OP")
+		(lib_id "Plib_General:2CH_SOP_STD_PIN")
 		(at 116.84 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7057,7 +7085,7 @@
 		(fields_autoplaced yes)
 		(uuid "5f408eab-ab67-41b7-972f-6c0fb8616ec4")
 		(property "Reference" "U15"
-			(at 121.92 104.14 0)
+			(at 121.92 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7065,7 +7093,7 @@
 			)
 		)
 		(property "Value" "AD8646"
-			(at 121.92 106.68 0)
+			(at 121.92 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7127,6 +7155,72 @@
 			(project ""
 				(path "/278f54ee-1296-4427-8b7b-827ba2606bbe/db52a101-068e-4e55-8fae-e0922467e0ad"
 					(reference "U15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDA")
+		(at 251.46 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5fce48e4-9434-41c0-adb4-37c3ee821458")
+		(property "Reference" "#PWR039"
+			(at 251.46 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDA"
+			(at 251.46 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 251.46 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 251.46 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
+			(at 251.46 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "866b57d1-c2f1-4a90-8968-9cefd24c5f98")
+		)
+		(instances
+			(project "oscilloscope"
+				(path "/278f54ee-1296-4427-8b7b-827ba2606bbe/db52a101-068e-4e55-8fae-e0922467e0ad"
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -8567,8 +8661,7 @@
 		)
 	)
 	(symbol
-		(lib_name "2CH_SOT23_OP_4")
-		(lib_id "Plib_General:2CH_SOT23_OP")
+		(lib_id "Plib_General:2CH_SOP_STD_PIN")
 		(at 265.43 30.48 0)
 		(unit 3)
 		(exclude_from_sim no)
@@ -8578,7 +8671,7 @@
 		(fields_autoplaced yes)
 		(uuid "a2371a7a-3c61-42d5-b01a-225b7fbf1fbc")
 		(property "Reference" "U11"
-			(at 276.86 36.1949 0)
+			(at 276.86 35.5599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8587,7 +8680,7 @@
 			)
 		)
 		(property "Value" "AD8646"
-			(at 276.86 38.1 0)
+			(at 276.86 38.0999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9000,8 +9093,7 @@
 		)
 	)
 	(symbol
-		(lib_name "2CH_SOT23_OP_4")
-		(lib_id "Plib_General:2CH_SOT23_OP")
+		(lib_id "Plib_General:2CH_SOP_STD_PIN")
 		(at 162.56 43.18 0)
 		(unit 2)
 		(exclude_from_sim no)
@@ -9011,7 +9103,7 @@
 		(fields_autoplaced yes)
 		(uuid "b5fbb867-fcac-4151-895e-d36c16fcf979")
 		(property "Reference" "U11"
-			(at 167.64 39.37 0)
+			(at 167.64 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9019,7 +9111,7 @@
 			)
 		)
 		(property "Value" "AD8646"
-			(at 167.64 41.91 0)
+			(at 167.64 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9975,8 +10067,7 @@
 		)
 	)
 	(symbol
-		(lib_name "2CH_SOT23_OP_4")
-		(lib_id "Plib_General:2CH_SOT23_OP")
+		(lib_id "Plib_General:2CH_SOP_STD_PIN")
 		(at 116.84 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9986,7 +10077,7 @@
 		(fields_autoplaced yes)
 		(uuid "efb0da1c-bd6b-4d5b-964b-8a4ab7b74c2e")
 		(property "Reference" "U11"
-			(at 121.92 36.83 0)
+			(at 121.92 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9994,7 +10085,7 @@
 			)
 		)
 		(property "Value" "AD8646"
-			(at 121.92 39.37 0)
+			(at 121.92 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)

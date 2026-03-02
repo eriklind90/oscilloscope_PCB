@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.1
         }
       },
       "diff_pair_dimensions": [
@@ -181,6 +181,7 @@
       ],
       "track_widths": [
         0.0,
+        0.2,
         0.25
       ],
       "tuning_pattern_settings": {
@@ -213,6 +214,10 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.25,
+          "drill": 0.15
         },
         {
           "diameter": 0.5,
@@ -474,9 +479,9 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.25,
-        "via_diameter": 0.8,
-        "via_drill": 0.4,
+        "track_width": 0.2,
+        "via_diameter": 0.5,
+        "via_drill": 0.3,
         "wire_width": 6
       }
     ],
@@ -638,6 +643,10 @@
     [
       "bd4c6269-65fd-4801-b1e1-5ace30cec8ae",
       "Buttons"
+    ],
+    [
+      "52308cb7-8ab9-4a72-8b16-6ee229791de3",
+      "misc"
     ]
   ],
   "text_variables": {}

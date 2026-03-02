@@ -4598,7 +4598,7 @@
 		)
 		(uuid "ffb1543f-fc53-45ec-93b7-19a568bb9d24")
 	)
-	(text "Resistor is 200/Id.\n\nId is 45 typ, 60 max\n200/45 = 4.44\n200/60 = 3.33"
+	(text "Resistor is 200/Id.\n\nId is 30 typ, 40 max\n200/45 = 4.44\n200/60 = 3.33"
 		(exclude_from_sim no)
 		(at 137.922 71.882 0)
 		(effects
@@ -4628,7 +4628,7 @@
 		)
 		(uuid "31def6c6-3c66-4721-9bfe-10bed73f35eb")
 	)
-	(text "44.4mA"
+	(text "32.3mA"
 		(exclude_from_sim no)
 		(at 128.524 49.784 0)
 		(effects
@@ -5629,7 +5629,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4R7"
+		(property "Value" "6R2"
 			(at 135.89 55.8799 0)
 			(effects
 				(font

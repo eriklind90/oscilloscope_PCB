@@ -7174,7 +7174,7 @@
 		)
 		(uuid "73f5dede-0122-4cf0-84a1-fe88681cd965")
 	)
-	(hierarchical_label "USB_DP"
+	(hierarchical_label "USB_P"
 		(shape input)
 		(at 147.32 48.26 0)
 		(fields_autoplaced yes)
@@ -7210,7 +7210,7 @@
 		)
 		(uuid "b25e113e-6dea-4589-a632-0172fb210c59")
 	)
-	(hierarchical_label "USB_DM"
+	(hierarchical_label "USB_N"
 		(shape input)
 		(at 147.32 43.18 0)
 		(fields_autoplaced yes)

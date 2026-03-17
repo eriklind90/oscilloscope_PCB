@@ -4282,12 +4282,6 @@
 		(uuid "4ef4af8b-022a-4255-977a-502e81729206")
 	)
 	(junction
-		(at 29.21 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4ff237af-91f7-454c-9688-2fd79ce8a699")
-	)
-	(junction
 		(at 191.77 24.13)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4570,6 +4564,12 @@
 		(uuid "e749139e-5cec-4462-bf6a-7e9d9c904be1")
 	)
 	(junction
+		(at 29.21 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eaac2d52-746b-457c-b941-00146c96dcc8")
+	)
+	(junction
 		(at 205.74 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4671,7 +4671,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 87.63) (xy 29.21 90.17)
+			(xy 29.21 87.63) (xy 29.21 88.9)
 		)
 		(stroke
 			(width 0)
@@ -5061,16 +5061,6 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 88.9) (xy 25.4 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "29785e43-6894-4ba5-8134-5d64c499b846")
-	)
-	(wire
-		(pts
 			(xy 74.93 110.49) (xy 85.09 110.49)
 		)
 		(stroke
@@ -5168,16 +5158,6 @@
 			(type default)
 		)
 		(uuid "2ebef98f-53d9-42f6-aef1-2c5ea8b66373")
-	)
-	(wire
-		(pts
-			(xy 25.4 90.17) (xy 29.21 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2eff4a1b-f6ab-4a88-90b5-423830d69a67")
 	)
 	(wire
 		(pts
@@ -5688,6 +5668,16 @@
 			(type default)
 		)
 		(uuid "6a344c48-8112-46df-865b-16f03f1cd3e3")
+	)
+	(wire
+		(pts
+			(xy 198.12 140.97) (xy 208.28 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b3f7046-0587-4ed7-a71a-090d99f9ea2b")
 	)
 	(wire
 		(pts
@@ -6261,6 +6251,16 @@
 	)
 	(wire
 		(pts
+			(xy 29.21 88.9) (xy 29.21 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7964815-51fb-4030-8e78-8cb6ad23798b")
+	)
+	(wire
+		(pts
 			(xy 107.95 160.02) (xy 116.84 160.02)
 		)
 		(stroke
@@ -6388,6 +6388,16 @@
 			(type default)
 		)
 		(uuid "b09572fe-9eb5-49a8-957e-71677835ed55")
+	)
+	(wire
+		(pts
+			(xy 208.28 140.97) (xy 208.28 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1ff8dbd-3a57-4aed-a130-844bb91914fd")
 	)
 	(wire
 		(pts
@@ -6571,7 +6581,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 88.9) (xy 107.95 88.9)
+			(xy 29.21 88.9) (xy 107.95 88.9)
 		)
 		(stroke
 			(width 0)
@@ -6808,16 +6818,6 @@
 			(type default)
 		)
 		(uuid "e1de75e6-11be-4cd2-999f-f3c2d145f7c7")
-	)
-	(wire
-		(pts
-			(xy 29.21 90.17) (xy 29.21 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e2a15f1e-46ac-4e10-9a8c-b1e83c071089")
 	)
 	(wire
 		(pts
@@ -7078,6 +7078,16 @@
 			(type default)
 		)
 		(uuid "fec0ef36-5051-4a11-9fe0-0a6a1549a30c")
+	)
+	(wire
+		(pts
+			(xy 198.12 142.24) (xy 198.12 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff4840f3-0736-44e4-92cd-d141fcabb14d")
 	)
 	(wire
 		(pts
@@ -7621,6 +7631,71 @@
 			(project "oscilloscope"
 				(path "/278f54ee-1296-4427-8b7b-827ba2606bbe/32b55b78-53b8-4dbb-a96e-05f08c864f07"
 					(reference "BT4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 208.28 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "18ddc136-79a0-4dab-9ac3-b11b936d4217")
+		(property "Reference" "#PWR078"
+			(at 208.28 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDA"
+			(at 208.28 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 208.28 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 208.28 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 208.28 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0f14b50d-645e-4688-b92e-b1766addb29d")
+		)
+		(instances
+			(project "oscilloscope"
+				(path "/278f54ee-1296-4427-8b7b-827ba2606bbe/32b55b78-53b8-4dbb-a96e-05f08c864f07"
+					(reference "#PWR078")
 					(unit 1)
 				)
 			)
@@ -8394,6 +8469,71 @@
 			(project "oscilloscope"
 				(path "/278f54ee-1296-4427-8b7b-827ba2606bbe/32b55b78-53b8-4dbb-a96e-05f08c864f07"
 					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 198.12 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3dfdb72e-1bdd-4a5a-aa68-140931c8ba50")
+		(property "Reference" "#PWR087"
+			(at 198.12 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 198.12 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 198.12 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 198.12 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 198.12 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b619ea59-7669-45de-b9ad-9407cdf418f8")
+		)
+		(instances
+			(project "oscilloscope"
+				(path "/278f54ee-1296-4427-8b7b-827ba2606bbe/32b55b78-53b8-4dbb-a96e-05f08c864f07"
+					(reference "#PWR087")
 					(unit 1)
 				)
 			)
@@ -9629,7 +9769,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3.3VA"
 			(at 251.46 134.62 0)
 			(effects
 				(font

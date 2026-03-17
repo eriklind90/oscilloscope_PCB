@@ -5838,7 +5838,7 @@
 	)
 	(hierarchical_label "CH1_B_DVR_1"
 		(shape input)
-		(at 83.82 90.17 180)
+		(at 83.82 97.79 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6090,7 +6090,7 @@
 	)
 	(hierarchical_label "CH2_B_DVR_2"
 		(shape input)
-		(at 83.82 97.79 180)
+		(at 83.82 90.17 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6210,7 +6210,7 @@
 	)
 	(hierarchical_label "CH2_B_DVR_1"
 		(shape input)
-		(at 83.82 93.98 180)
+		(at 83.82 86.36 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6282,7 +6282,7 @@
 	)
 	(hierarchical_label "CH1_B_DVR_2"
 		(shape input)
-		(at 83.82 86.36 180)
+		(at 83.82 93.98 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6731,7 +6731,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 28.9052 34.29 0)
 			(effects
 				(font

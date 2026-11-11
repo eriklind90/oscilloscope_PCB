@@ -143,6 +143,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "x"
+			(at 67.31 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "oscilloscope"
 				(path "/278f54ee-1296-4427-8b7b-827ba2606bbe/52308cb7-8ab9-4a72-8b16-6ee229791de3"
@@ -199,6 +208,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 67.31 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "x"
 			(at 67.31 52.07 0)
 			(effects
 				(font
@@ -271,6 +289,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "x"
+			(at 67.31 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "oscilloscope"
 				(path "/278f54ee-1296-4427-8b7b-827ba2606bbe/52308cb7-8ab9-4a72-8b16-6ee229791de3"
@@ -327,6 +354,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 67.31 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "x"
 			(at 67.31 45.72 0)
 			(effects
 				(font

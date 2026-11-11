@@ -5865,6 +5865,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "x"
+			(at 279.4 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d373cc6e-b6c7-4425-8109-afd8c66c2642")
 		)
@@ -6065,6 +6074,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "x"
+			(at 104.14 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4007e20b-730b-4337-833a-ac383393dc22")
 		)
@@ -6152,6 +6170,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C45783"
+			(at 69.85 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b66a75c4-2743-40ba-b5dc-f075fee120cd")
 		)
@@ -6214,6 +6241,15 @@
 			)
 		)
 		(property "Description" "2ch OP amp general purpose symbol"
+			(at 262.89 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "x"
 			(at 262.89 60.96 0)
 			(effects
 				(font
@@ -6301,6 +6337,15 @@
 			)
 		)
 		(property "Description" "Low power 150mA LDO variable output voltage, SOT-23-5"
+			(at 45.72 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "x"
 			(at 45.72 171.45 0)
 			(effects
 				(font
@@ -6515,6 +6560,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "x"
+			(at 104.14 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9375e835-4f91-4b0b-a494-e156203056fb")
 		)
@@ -6565,7 +6619,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "MCP6002T-I/SN"
 			(at 247.65 101.6 0)
 			(effects
 				(font
@@ -6592,6 +6646,15 @@
 			)
 		)
 		(property "Description" "2ch OP amp general purpose symbol"
+			(at 242.57 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C7377"
 			(at 242.57 102.87 0)
 			(effects
 				(font
@@ -6753,6 +6816,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "x"
+			(at 107.95 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7ad7ff5c-4213-4ad1-a7f2-23d411b0c206")
 		)
@@ -6811,6 +6883,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 205.74 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C1594"
 			(at 205.74 53.34 0)
 			(effects
 				(font
@@ -6878,6 +6959,15 @@
 			)
 		)
 		(property "Description" "2ch OP amp general purpose symbol"
+			(at 118.11 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "x"
 			(at 118.11 40.64 0)
 			(effects
 				(font
@@ -7038,6 +7128,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C23182"
+			(at 198.12 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4eeda943-7b00-4a93-8c23-d357a9c55fee")
 		)
@@ -7173,6 +7272,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1594"
+			(at 207.01 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2cd9685d-83ed-4b3a-9e59-66351a248c82")
 		)
@@ -7234,6 +7342,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 66.04 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17714"
 			(at 66.04 130.81 0)
 			(effects
 				(font
@@ -7376,6 +7493,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "x"
+			(at 104.14 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "796391e9-f3b5-400d-a78b-11179cb3d9eb")
 		)
@@ -7488,7 +7614,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "IN2_FILT"
+		(property "Value" "CH1_B_DVR_1"
 			(at 175.26 89.4079 0)
 			(effects
 				(font
@@ -7516,6 +7642,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 172.72 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "x"
 			(at 172.72 91.44 0)
 			(effects
 				(font
@@ -7588,6 +7723,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C519500"
+			(at 165.1 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "df46ac14-9939-4a3e-932e-fe4fff6104f5")
 		)
@@ -7651,6 +7795,15 @@
 			)
 		)
 		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+			(at 25.4 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "x"
 			(at 25.4 91.44 0)
 			(effects
 				(font
@@ -7857,6 +8010,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "x"
+			(at 114.3 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "b465251f-308d-4579-9c9d-ef680a6e9a4d")
 		)
@@ -7937,6 +8099,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 58.42 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "x"
 			(at 58.42 184.15 0)
 			(effects
 				(font
@@ -8045,7 +8216,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "51k"
+		(property "Value" "50k"
 			(at 73.66 118.1099 0)
 			(effects
 				(font
@@ -8073,6 +8244,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 71.12 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "x"
 			(at 71.12 116.84 0)
 			(effects
 				(font
@@ -8151,6 +8331,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "x"
+			(at 69.85 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "592db645-f834-4d4f-808e-cf85f381cb4d")
 		)
@@ -8185,7 +8374,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "51k"
+		(property "Value" "50k"
 			(at 72.39 50.7999 0)
 			(effects
 				(font
@@ -8213,6 +8402,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 69.85 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "x"
 			(at 69.85 49.53 0)
 			(effects
 				(font
@@ -8282,6 +8480,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 204.47 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "x"
 			(at 204.47 48.26 0)
 			(effects
 				(font
@@ -8490,6 +8697,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C307331"
+			(at 238.76 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e5e974be-62af-48c0-b16c-351a6f6f669f")
 		)
@@ -8625,6 +8841,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "x"
+			(at 62.23 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fdfab9c7-2d4c-4c15-992c-40a24454e8d5")
 		)
@@ -8681,6 +8906,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 148.59 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "x"
 			(at 148.59 45.72 0)
 			(effects
 				(font
@@ -8854,7 +9088,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "MCP6002T-I/SN"
 			(at 254 148.59 0)
 			(effects
 				(font
@@ -8882,6 +9116,15 @@
 			)
 		)
 		(property "Description" "2ch OP amp general purpose symbol"
+			(at 242.57 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C7377"
 			(at 242.57 140.97 0)
 			(effects
 				(font
@@ -8968,6 +9211,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 81.28 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "x"
 			(at 81.28 64.77 0)
 			(effects
 				(font
@@ -9239,6 +9491,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "x"
+			(at 104.14 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4672bca7-eeb5-451f-9c54-a3a2f3607cb2")
 		)
@@ -9322,6 +9583,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "x"
+			(at 279.4 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "da37d47e-23ef-4901-a07d-4137dae228b5")
 		)
@@ -9392,6 +9662,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C307331"
+			(at 254 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "eb002d78-a104-4b88-a658-1732ac85c442")
 		)
@@ -9453,6 +9732,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 62.23 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C14663"
 			(at 62.23 142.24 0)
 			(effects
 				(font
@@ -9531,6 +9819,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C307331"
+			(at 254 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c02cba17-8954-4e4d-a6a6-a04cadcc1654")
 		)
@@ -9590,6 +9887,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 144.78 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "x"
 			(at 144.78 113.03 0)
 			(effects
 				(font
@@ -9660,6 +9966,15 @@
 			)
 		)
 		(property "Description" "2ch OP amp general purpose symbol"
+			(at 265.43 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "x"
 			(at 265.43 30.48 0)
 			(effects
 				(font
@@ -9756,6 +10071,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "x"
+			(at 71.12 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4306a1ea-0290-48f5-bf71-75ed55bce38e")
 		)
@@ -9817,6 +10141,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 60.96 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C14663"
 			(at 60.96 74.93 0)
 			(effects
 				(font
@@ -9895,6 +10228,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "x"
+			(at 199.39 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cac29a84-ec9e-4c99-a45a-59ef50b22846")
 		)
@@ -9952,6 +10294,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 190.5 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C23182"
 			(at 190.5 115.57 0)
 			(effects
 				(font
@@ -10029,6 +10380,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C519568"
+			(at 156.21 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ed06c42d-4690-4679-84a0-59146216ceb2")
 		)
@@ -10098,6 +10458,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C519568"
+			(at 152.4 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6ceada55-a2df-468f-9e5f-7154c6d0759a")
 		)
@@ -10158,6 +10527,15 @@
 			)
 		)
 		(property "Description" "2ch OP amp general purpose symbol"
+			(at 160.02 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "x"
 			(at 160.02 110.49 0)
 			(effects
 				(font
@@ -10251,6 +10629,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "x"
+			(at 133.35 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "40c4d60a-fad5-4008-bf30-83cc4cb4c9be")
 		)
@@ -10310,6 +10697,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 137.16 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "x"
 			(at 137.16 45.72 0)
 			(effects
 				(font
@@ -10388,6 +10784,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C23630"
+			(at 68.58 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "876b78e8-3135-4b94-b75e-37d0e8c101e5")
 		)
@@ -10451,6 +10856,15 @@
 			)
 		)
 		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+			(at 25.4 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "x"
 			(at 25.4 24.13 0)
 			(effects
 				(font
@@ -10558,7 +10972,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "MCP6002T-I/SN"
 			(at 247.65 120.65 0)
 			(effects
 				(font
@@ -10585,6 +10999,15 @@
 			)
 		)
 		(property "Description" "2ch OP amp general purpose symbol"
+			(at 242.57 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C7377"
 			(at 242.57 121.92 0)
 			(effects
 				(font
@@ -10811,6 +11234,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C45783"
+			(at 68.58 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7cd7aa57-6233-4754-ac71-56392b26b6de")
 		)
@@ -10873,6 +11305,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 71.12 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "x"
 			(at 71.12 96.52 0)
 			(effects
 				(font
@@ -11017,6 +11458,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "x"
+			(at 58.42 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7527e40d-d2c7-40fd-b5ea-48bfc214c43a")
 		)
@@ -11087,6 +11537,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "x"
+			(at 69.85 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "54e49c1a-a25b-4dcd-9912-71e497e17aef")
 		)
@@ -11149,6 +11608,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 30.48 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C1623"
 			(at 30.48 175.26 0)
 			(effects
 				(font
@@ -11291,6 +11759,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17714"
+			(at 64.77 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "47bac647-72f4-47c3-b0ea-16c914fad6ad")
 		)
@@ -11350,6 +11827,15 @@
 			)
 		)
 		(property "Description" "2ch OP amp general purpose symbol"
+			(at 163.83 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "x"
 			(at 163.83 43.18 0)
 			(effects
 				(font
@@ -11510,6 +11996,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C519500"
+			(at 161.29 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d5abf51f-1723-4069-a43d-ed85babdb3e0")
 		)
@@ -11572,6 +12067,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 172.72 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "x"
 			(at 172.72 85.09 0)
 			(effects
 				(font
